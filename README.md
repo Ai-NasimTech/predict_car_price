@@ -1,0 +1,1 @@
+This project retrieves the first 200 pages of the “bama.ir” website and stores them in the bamacars3 database table. As a result, the project program teaches this information by decision tree classifier, and by putting in a new input set (car name, car model, function, city desired), it predicts the price of the car with 93% accuracy.
